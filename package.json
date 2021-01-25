@@ -10,8 +10,20 @@
     "@types/node": "^12.0.0",
     "@types/react": "^16.9.53",
     "@types/react-dom": "^16.9.8",
+    "axios": "^0.21.1",
+    "bootstrap": "^4.6.0",
+    "history": "^5.0.0",
+    "http-status": "^1.5.0",
+    "lodash": "^4.17.20",
+    "mobx": "^6.0.5",
+    "mobx-react": "^7.0.6",
+    "mobx-react-router": "^4.1.0",
+    "moment-timezone": "^0.5.32",
     "react": "^17.0.1",
+    "react-bootstrap": "^1.4.3",
     "react-dom": "^17.0.1",
+    "react-notify-toast": "^0.5.1",
+    "react-router-dom": "^5.2.0",
     "react-scripts": "4.0.1",
     "typescript": "^4.0.3",
     "web-vitals": "^0.2.4"
@@ -39,5 +51,12 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "@types/history": "^4.7.8",
+    "@types/lodash": "^4.14.168",
+    "@types/moment": "^2.13.0",
+    "@types/moment-timezone": "^0.5.30",
+    "@types/react-router-dom": "^5.1.7"
   }
 }
